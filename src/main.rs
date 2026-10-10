@@ -11,6 +11,7 @@
 mod bench;
 mod entry;
 mod ledger;
+mod organelle;
 mod views;
 
 use ledger::Ledger;
