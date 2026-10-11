@@ -1,3 +1,5 @@
+[Active R&D Lab] — no CI runs on record; active development, expect rough edges.
+
 # ledger-graph
 
 Fast ledger parser + on-demand graph views. Rust. Zero Python at runtime.
